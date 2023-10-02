@@ -1,4 +1,4 @@
-# ELK stack deployer (Timed Test)
+# ELK stack deployer (A Timed Interview Test from 2018 ~7 days)
 
 ## This package:
 1. Uses docker-compose to deploy a fully working ELK stack
