@@ -26,9 +26,6 @@
 ![Dashboard 02](./images/Dashboard02.png)
 
 ## Additional Links
-[docker-install-info]: <https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04>
+* [docker-compose-install-info](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04)
 
-[docker-compose-install-info]:
-<https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04>
-
-[kibana-import-info]: <https://support.logz.io/hc/en-us/articles/210207225-How-can-I-export-import-Dashboards-Searches-and-Visualizations-from-my-own-Kibana->
+* [kibana-import-info](https://support.logz.io/hc/en-us/articles/210207225-How-can-I-export-import-Dashboards-Searches-and-Visualizations-from-my-own-Kibana-)
