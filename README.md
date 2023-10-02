@@ -28,4 +28,4 @@
 ## Additional Links
 * [docker-compose-install-info](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04)
 
-* [kibana-import-info](https://support.logz.io/hc/en-us/articles/210207225-How-can-I-export-import-Dashboards-Searches-and-Visualizations-from-my-own-Kibana-)
+* [kibana-import-info](https://aws.amazon.com/blogs/big-data/export-and-import-kibana-dashboards-with-amazon-es/#:~:text=Dashboard%20import&text=the%20following%20steps%3A-,Log%20in%20to%20the%20Kibana%20dashboard.,for%20saved%20objects%2C%20choose%20Import.)
